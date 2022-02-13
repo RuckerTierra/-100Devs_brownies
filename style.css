@@ -1,0 +1,17 @@
+*, html, body {
+	margin: 0 auto;
+}
+
+body {
+	background-color: lightblue;
+}
+
+img {
+	width: 500px;
+	height: auto;
+}
+
+#recipe {
+	margin: 10px;
+}
+
