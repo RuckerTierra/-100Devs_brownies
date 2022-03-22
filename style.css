@@ -1,17 +1,26 @@
-*, html, body {
-	margin: 0 auto;
-}
-
 body {
-	background-color: lightblue;
+  background-color: lightblue;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-img {
-	width: 500px;
-	height: auto;
+#recipeBy {
+  font-size: 24px;
 }
 
-#recipe {
-	margin: 10px;
+#brownieImage {
+  width: 500px;
+  height: auto; 
+  float: right;
 }
 
+#brownieRecipeLink {
+  font-size: 15px;
+}
+
+#tip {
+  font-weight: bold;
+}
+
+#foil {
+  font-style: italic;
+}
